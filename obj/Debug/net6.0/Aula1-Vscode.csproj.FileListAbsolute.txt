@@ -1,0 +1,15 @@
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\bin\Debug\net6.0\Aula1-Vscode.exe
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\bin\Debug\net6.0\Aula1-Vscode.deps.json
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\bin\Debug\net6.0\Aula1-Vscode.runtimeconfig.json
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\bin\Debug\net6.0\Aula1-Vscode.dll
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\bin\Debug\net6.0\Aula1-Vscode.pdb
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.csproj.AssemblyReference.cache
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.AssemblyInfoInputs.cache
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.AssemblyInfo.cs
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.csproj.CoreCompileInputs.cache
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.dll
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\refint\Aula1-Vscode.dll
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.pdb
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\Aula1-Vscode.genruntimeconfig.cache
+C:\Users\Cleide Nascimento\Documents\Desenvolvimento\Aula1-Vscode\obj\Debug\net6.0\ref\Aula1-Vscode.dll
